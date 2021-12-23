@@ -9,6 +9,6 @@
     <body>
         <h1>Hello World </h1>
         <p>githubとvscodeを連携させた。</p>
-        <img src="./img/https://github.com/furushima9/furushima/blob/6012882359d9a0838d9875e340febc0615bb0d08/kumabo.png" alt="熊">
+        <img src="https://github.com/furushima9/furushima/blob/6012882359d9a0838d9875e340febc0615bb0d08/kumabo.png" alt="熊">
     </body>
 
