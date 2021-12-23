@@ -9,5 +9,6 @@
     <body>
         <h1>Hello World </h1>
         <p>githubとvscodeを連携させた。</p>
+        <img src="./img/kumabo.png" alt="熊”>
     </body>
 
